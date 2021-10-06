@@ -1,6 +1,6 @@
 # StreamlabsProxy
 
-A API provider/proxy that provides plaintext responses for Streamlabs API
+API provider/proxy that provides plaintext responses for Streamlabs API
 
 This app was built using Node JS, and Babel
 
